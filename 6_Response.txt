@@ -1,0 +1,21 @@
+HTTP/1.1 303 See Other
+Date: Sat, 07 Dec 2013 05:30:18 GMT
+Server: Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635
+X-Powered-By: PHP/5.2.9
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: MoodleSessionmdl1=e9136803c2a23a09b41dda56154a67fa; path=/
+Set-Cookie: MOODLEID_mdl1=deleted; expires=Fri, 07-Dec-2012 05:30:17 GMT; path=/
+Set-Cookie: MOODLEID_mdl1=%25F1%25CD%2518M%25B6q%25FE%250C%25E5%255D%25E44%25F1U; expires=Wed, 05-Feb-2014 05:30:18 GMT; path=/
+Location: http://sae.infnet.edu.br/moodle/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+Content-Length: 192
+
+<meta http-equiv="refresh" content="0; url=http://sae.infnet.edu.br/moodle/" /><script type="text/javascript">
+//<![CDATA[
+location.replace('http://sae.infnet.edu.br/moodle/');
+//]]>
+</script>

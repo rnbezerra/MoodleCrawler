@@ -1,0 +1,15 @@
+POST /moodle/login/index.php HTTP/1.1
+Host: sae.infnet.edu.br
+Connection: keep-alive
+Content-Length: 58
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Origin: http://sae.infnet.edu.br
+User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Referer: http://sae.infnet.edu.br/moodle/login/index.php
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.6,en;q=0.4
+Cookie: hide:inst4239=1; MoodleSessionmdl1=89e196ede8724847d4ff51cd2f1a7d4d; MOODLEID_mdl1=%25F1%25CD%2518M%25B6q%25FE%250C%25E5%255D%25E44%25F1U; MoodleSessionTestmdl1=z3jZpWVT06
+
+username=rafael.bezerra&password=RNB3z3rr%40&testcookies=1
